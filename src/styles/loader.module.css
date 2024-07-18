@@ -1,0 +1,13 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.loader {
+  height: 96px;
+  width: 96px;
+  color: grey;
+}
